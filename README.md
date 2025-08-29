@@ -27,7 +27,7 @@ Este proyecto es un backend desarrollado con **NestJS** y **MySQL**, para gestio
     npm install
 3. Crear en Xampp una base de datos en blanco
 
-    carpinteria
+        carpinteria
    
 5. Configurar variables de entorno: 
 
