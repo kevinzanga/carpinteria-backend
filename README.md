@@ -21,8 +21,7 @@ Este proyecto es un backend desarrollado con **NestJS** y **MySQL**, para gestio
 1. Clonar el repositorio:
 
     ```bash
-    git clone <repo_url>
-    cd <repo_folder>
+    git clone https://github.com/kevinzanga/carpinteria-backend
     
 2. Instalar dependencias:
     npm install
