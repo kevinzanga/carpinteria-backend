@@ -26,8 +26,10 @@ Este proyecto es un backend desarrollado con **NestJS** y **MySQL**, para gestio
 2. Instalar dependencias:
     npm install
 3. Crear en Xampp una base de datos en blanco
+
     carpinteria
-4. Configurar variables de entorno: 
+   
+5. Configurar variables de entorno: 
 
             DB_HOST=localhost           # Host de la base de datos
             DB_PORT=3306                # Puerto de la base de datos
@@ -37,7 +39,7 @@ Este proyecto es un backend desarrollado con **NestJS** y **MySQL**, para gestio
             JWT_SECRET=tu_jwt_secret    # Clave secreta para JWT
             JWT_EXPIRATION=3600s        # Tiempo de expiración del token
 
-5. Levantar la aplicación:
+6. Levantar la aplicación:
       npm run start:dev
 
 La API estará disponible en: http://localhost:3000
